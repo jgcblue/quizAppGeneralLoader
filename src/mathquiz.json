@@ -1,0 +1,55 @@
+{
+  "questions": [
+    {
+      "question": "What is the sum of $5$ and $7$?",
+      "options": ["10", "12", "13", "11"],
+      "correctAnswer": "12"
+    },
+    {
+      "question": "Solve for $x$ in the equation $2x = 16$.",
+      "options": ["8", "6", "7", "9"],
+      "correctAnswer": "8"
+    },
+    {
+      "question": "Which of the following is a prime number?",
+      "options": ["21", "17", "25", "27"],
+      "correctAnswer": "17"
+    },
+    {
+      "question": "What is the area of a rectangle with a length of $10$ units and width of $5$ units?",
+      "options": ["50", "15", "25", "60"],
+      "correctAnswer": "50"
+    },
+    {
+      "question": "If the radius of a circle is $7$ units, what is its diameter?",
+      "options": ["7", "3.5", "14", "21"],
+      "correctAnswer": "14"
+    },
+    {
+      "question": "Solve for $y$ in the equation $y - 3 = 10$.",
+      "options": ["7", "13", "8", "6"],
+      "correctAnswer": "13"
+    },
+    {
+      "question": "What is the square root of $49$?",
+      "options": ["6", "8", "7", "5"],
+      "correctAnswer": "7"
+    },
+    {
+      "question": "Which of the following is equivalent to $3^3$?",
+      "options": ["27", "9", "12", "36"],
+      "correctAnswer": "27"
+    },
+    {
+      "question": "What is the perimeter of a square with side length $6$ units?",
+      "options": ["12", "24", "36", "18"],
+      "correctAnswer": "24"
+    },
+    {
+      "question": "If $5x = 25$, what is the value of $x$?",
+      "options": ["3", "5", "10", "4"],
+      "correctAnswer": "5"
+    }
+  ]
+}
+
